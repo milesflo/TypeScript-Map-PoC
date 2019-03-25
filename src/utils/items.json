@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Hat",
+    "id": "hat",
+    "slot": "head",
+    "item_type": "equipment"
+  },
+  {
+    "name": "Sunglasses",
+    "id": "glasses",
+    "slot": "eyes",
+    "item_type": "equipment"
+  },
+  {
+    "name": "Shovel",
+    "id": "shovel",
+    "slot": "weapon",
+    "item_type": "weapon",
+    "damage": 30
+  }
+]
